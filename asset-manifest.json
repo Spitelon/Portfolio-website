@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-website/static/css/main.79967073.css",
-    "main.js": "/Portfolio-website/static/js/main.9fce8ad3.js",
+    "main.js": "/Portfolio-website/static/js/main.e294c2be.js",
     "static/media/ParadiseOfHell.png": "/Portfolio-website/static/media/ParadiseOfHell.7b4c6fa40c90ebfb5825.png",
     "static/media/bubamarica.png": "/Portfolio-website/static/media/bubamarica.becf7adee061a888ab54.png",
     "static/media/kdev.png": "/Portfolio-website/static/media/kdev.2064d0b7778f12f3a784.png",
@@ -11,15 +11,15 @@
     "static/media/WeighWeb.png": "/Portfolio-website/static/media/WeighWeb.13ecf08292f0eb299330.png",
     "static/media/url__shortener.png": "/Portfolio-website/static/media/url__shortener.28a4d3ee16be49534e7e.png",
     "static/media/Manage__landing.png": "/Portfolio-website/static/media/Manage__landing.709b11d2aa2089ff80ad.png",
+    "static/media/Kosta-Divnic-CV.pdf": "/Portfolio-website/static/media/Kosta-Divnic-CV.1b72da4c507bf62d9656.pdf",
     "static/media/Launch__countdown.png": "/Portfolio-website/static/media/Launch__countdown.9356b4b17c3f04c12ed5.png",
-    "static/media/Kosta-Divnic-CV.pdf": "/Portfolio-website/static/media/Kosta-Divnic-CV.244ecb8b5518a1c36405.pdf",
     "static/media/Kdev logo(bez pozadine ).png": "/Portfolio-website/static/media/Kdev logo(bez pozadine ).89967788653ad7ef18a2.png",
     "index.html": "/Portfolio-website/index.html",
     "main.79967073.css.map": "/Portfolio-website/static/css/main.79967073.css.map",
-    "main.9fce8ad3.js.map": "/Portfolio-website/static/js/main.9fce8ad3.js.map"
+    "main.e294c2be.js.map": "/Portfolio-website/static/js/main.e294c2be.js.map"
   },
   "entrypoints": [
     "static/css/main.79967073.css",
-    "static/js/main.9fce8ad3.js"
+    "static/js/main.e294c2be.js"
   ]
 }
